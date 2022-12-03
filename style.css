@@ -372,12 +372,7 @@ p{
 		margin-bottom:5%;
 		margin-top:5%;
 	}
-	#blocoUm{
-		height:15vh;
-	}
-	#blocoDois{
-		height:15vh;
-	}
+	
 	img{
 		width:11%;
 		height:30vh;
@@ -393,9 +388,9 @@ p{
 @media (max-width:800px){
 #box-information{
 	z-index:100;
-	margin-bottom:10%;
-	height:40vh;
-	transform:translateY(-40%);
+	margin:10% auto 10% auto;
+	height:50vh;
+	padding:5px 5px 5px 5px;
 }
 }
 
